@@ -1,0 +1,49 @@
+ .iphone .card {
+ font-family: arial;
+ font-size: 19px;
+ text-align: center;
+ color: White;
+ background-color: Black;
+ margin-top: 56%;
+ line-height: 1.15;
+}
+
+ .android .card {
+ font-family: arial;
+ font-size: 19px;
+ text-align: center;
+ color: White;
+ background-color: Black;
+ margin-top: 56%;
+ line-height: 1.15;
+}
+
+.win .card {
+ font-family: arial;
+ font-size: 19px;
+ text-align: center;
+ color: White;
+ margin-top: 25%;
+ line-height: 1.15;
+}
+
+.linux .card {
+ font-size: 19px;
+ text-align: center;
+ color: White;
+ margin-top: 25%;
+ line-height: 1.15;
+}
+
+.mac .card {
+ font-size: 19px;
+ text-align: center;
+ color: White;
+ margin-top: 25%;
+ line-height: 1.15;
+}
+
+hr {
+ margin: 0px;
+}
+
